@@ -1,2 +1,2 @@
 # WOE-IV-for-Bank
-code to find the Good &amp; Bad customers
+using data find out the Good &amp; Bad customers of Bank.
